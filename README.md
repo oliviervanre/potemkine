@@ -1,10 +1,10 @@
 # Potemkine — SYSADMIN
 
-Démonstrateur web fictif et satirique représentant une console d’administration volontairement tentaculaire.
+Démonstrateur web fictif représentant une console d’administration volontairement tentaculaire.
 
 Il met en scène Kubernetes, les chaînes CI/CD, un giga-calculateur, un superviseur quantique, l’énergie, la conformité, la supervision des superviseurs et le monitoring cardiaque du chef de projet.
 
-L’application utilise React, TypeScript, Vite et Chart.js. Toutes les données, alertes et opérations sont simulées.
+L’application utilise React, TypeScript, Vite et Chart.js. 
 
 ## Prérequis
 
